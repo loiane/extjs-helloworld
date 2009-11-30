@@ -1,0 +1,6 @@
+/build/*
+/.settings/*
+
+Thumbs.db
+
+*.psd
